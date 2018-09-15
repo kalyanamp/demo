@@ -1,2 +1,2 @@
-# demo tomcat maven project
+# demo tomcat maven java project
 mvn clean install
